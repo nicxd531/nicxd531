@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ultra_nicx" target="blank"><img src="https://img.shields.io/twitter/follow/ultra_nicx?logo=twitter&style=for-the-badge" alt="ultra_nicx" /></a> </p>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **an insurance website**
 
 - 🌱 I’m currently learning **React native**
 

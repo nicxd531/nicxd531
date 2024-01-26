@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <img align="right" width="40%" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"/>
 
-<p align="left"> <a href="https://twitter.com/ultra_nicx" target="blank"><img src="https://img.shields.io/twitter/follow/ultra_nicx?logo=twitter&style=for-the-badge" alt="ultra_nicx" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nicx_ola_" target="blank"><img src="https://img.shields.io/twitter/follow/nicx_ola_?logo=twitter&style=for-the-badge" alt="nicx_ola_" /></a> </p>
 
 - 🔭 I’m currently working on **an insurance website**
 

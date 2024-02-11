@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React native**
 
-- 👨‍💻 All of my projects are available at [https://olaolasunkanmiportfolio.netlify.app/](https://olaolasunkanmiportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://olasunkanmi-main-portfolio.netlify.app](https://olasunkanmi-main-portfolio.netlify.app)
 
 - 💬 Ask me about **React**
 
